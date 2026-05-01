@@ -191,7 +191,13 @@
 
 ### 人工智能
 
+* [大规模语言模型：从理论到实践](https://llmbook-zh.github.io) - 张奇、桂韬、郑锐、黄沛 等
 * [动手实战人工智能](https://aibydoing.com) - huhuhang
+* [动手学强化学习](https://hrl.boyuai.com) - 张伟楠、沈键、俞勇
+* [动手学深度学习](https://zh.d2l.ai) - 阿斯顿·张、李沐、扎卡里·C·立顿、亚历山大·J·斯莫拉
+* [南瓜书PumpkinBook](https://datawhalechina.github.io/pumpkin-book) - Datawhale
+* [深度学习500问](https://github.com/scutan90/DeepLearning-500-questions) - scutan90
+* [神经网络与深度学习](https://nndl.github.io) - 邱锡鹏
 
 
 ### 软件开发方法
@@ -664,7 +670,6 @@
 * [Numpy 1.16 中文文档](http://www.osgeo.cn/numpy/) (Online)
 * [Python 3 文档(简体中文) 3.2.2 documentation](http://docspy3zh.readthedocs.org/en/latest/)
 * [Python 3.8.0a3中文文档](http://www.osgeo.cn/cpython/) (Online) *(目前在线最全的中文文档了)*
-* [Python 中文学习大本营](http://www.pythondoc.com)
 * [Python 最佳实践指南](https://pythonguidecn.readthedocs.io/zh/latest/)
 * [Python Cookbook第三版](http://python3-cookbook.readthedocs.io/zh_CN/latest/) - David Beazley、Brian K.Jones、熊能(翻译)
 * [Python教程 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)

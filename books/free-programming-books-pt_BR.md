@@ -138,6 +138,7 @@
 
 * [C# e Orientação a Objetos](https://www.caelum.com.br/apostila-csharp-orientacao-objetos/) - Caelum
 * [C# para Iniciantes](https://livrocsharp.com.br/wp-content/uploads/dae-uploads/CSharpIniciantes.pdf) - André Carlucci, Carlos dos Santos, Claudenir Andrade, Rafael Almeida, Ray Carneiro, Renato Haddad (PDF)
+* [Linguagem de Programação C# Avançado](https://lms.ev.org.br/mpls/Custom/Cds/COURSES/3164-Adapt/curso/pdfs/ebook-completo.pdf) - Fundação Bradesco (PDF)
 
 
 ### <a id="cpp"></a>C++
@@ -359,6 +360,7 @@
 
 ### Julia
 
+* [Introdução à programação em Julia](https://juliaintro.github.io/JuliaIntroBR.jl/index.html) - Ben Lauwens, Allen Downey, `trl.:` Abel Soares Siqueira, Gustavo Sarturi, João Okimoto, Kally Chung (HTML) (CC BY-NC 3.0)
 * [Programação de Computadores com Linguagem Julia](https://github.com/J-AugustoManzano/LivroLinJulia) - José Augusto N. G. Manzano (PDF)
 
 
@@ -417,6 +419,7 @@
 * [Aprenda computação com Python](https://aprendendo-computacao-com-python.readthedocs.org/en/latest/index.html)
 * [Curso de Python e Django](https://osantana.me/curso-de-python-e-django)
 * [Django 101 - Introdução ao Django](http://turing.com.br/material/acpython/mod3/django/index.html)
+* [FastAPI do Zero](https://fastapidozero.dunossauro.com) - Eduardo Mendes (HTML) (CC BY-NC-SA)
 * [Introdução a Visão Computacional com Python e OpenCV](http://professor.luzerna.ifc.edu.br/ricardo-antonello/wp-content/uploads/sites/8/2017/02/Livro-Introdu%C3%A7%C3%A3o-a-Vis%C3%A3o-Computacional-com-Python-e-OpenCV-3.pdf) (PDF)
 * [Introdução ao Python](https://files.cercomp.ufg.br/weby/up/688/o/M2_IP_24-09-24.pdf) - Rafael Divino Ferreira Feitosa (PDF)
 * [O Guia do Mochileiro para Python!](https://python-guide-pt-br.readthedocs.io/pt_BR/latest/)
@@ -441,7 +444,7 @@
 ### R
 
 * [Análise Exploratória de Dados usando o R](http://www.uesc.br/editora/livrosdigitais2/analiseexploratoria_r.pdf) - Enio Jelihovschi (PDF)
-* [Fundamentos Estatísticos de Ciência dos Dados](https://homepages.dcc.ufmg.br/~assuncao/EstatCC/FECD.pdf) - Renato Assunção (PDF)
+* [Fundamentos Estatísticos de Ciência dos Dados](https://biblioteca.unisced.edu.mz/pdfjs/web/viewer.html?file=https://biblioteca.unisced.edu.mz/bitstream/123456789/2209/1/Fundamentos%20Estat%c3%adsticos%20de%20Ci%c3%aancia%20dos%20Dados.pdf) - Renato Assunção (PDF)
 * [Introdução à Linguagem R: seus fundamentos e sua prática](https://pedropark99.github.io/Introducao_R/) - Pedro Duarte Faria
 * [R para cientistas sociais](http://www.uesc.br/editora/livrosdigitais_20140513/r_cientistas.pdf) - Jakson Alves de Aquino (PDF)
 

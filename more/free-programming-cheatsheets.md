@@ -143,7 +143,6 @@
 
 ### Dart
 
-* [Dart Cheatsheet](https://quickref.me/dart) - Quickref.me (HTML)
 * [Dart Cheatsheet](https://dart.dev/codelabs/dart-cheatsheet) - Codelabs (HTML)
 * [Dart Cheatsheet](https://simplecheatsheet.com/tag/dart-cheat-sheet/#site-header) - Simplecheatsheet.com (HTML)
 * [Dart Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/08/RW-Dart-Cheatsheet-1.0.2.pdf) - Koenig-media.raywenderlich.com (PDF)
@@ -290,6 +289,7 @@
 
 * [Accessibility CheatSheet](https://learn-the-web.algonquindesign.ca/topics/accessibility-cheat-sheet/) - Algonquin Design (HTML)
 * [Beginner's CheatSheet](https://websitesetup.org/html5-cheat-sheet/) - WebsiteSetup (HTML)
+* [Bootstrap 5 CSS Cheat Sheet](https://bootstrap-cheatsheet.themeselection.com) - Theme Selection (HTML)
 * [CSS Cheat Sheet – A Basic Guide to CSS](https://www.geeksforgeeks.org/css-cheat-sheet-a-basic-guide-to-css) - GeeksforGeeks (HTML)
 * [CSS CheatSheet](https://htmlcheatsheet.com/css/) (HTML)
 * [CSS Cheatsheet](https://www.codewithharry.com/blogpost/css-cheatsheet/) - CodeWithHarry (HTML)
@@ -410,9 +410,11 @@
 
 ### Kotlin
 
-* [Kotlin Cheat Sheet](https://devhints.io/kotlin) - Devhints (HTML)
-* [Kotlin Cheatsheet and Quick Reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
-* [Kotlin Quick Reference](https://kotlinlang.org/docs/kotlin-reference.pdf) - JetBrains (PDF)
+* [Kotlin Cheat sheet](https://alidehkhodaei.github.io/kotlin-cheat-sheet/) - Pahul (HTML)
+* [Kotlin Cheatsheet](https://cheatsheetshero.com/user/all/336-kotlin-cheatsheet.pdf) - CShero (PDF)
+* [Kotlin Cheatsheet](https://www.devsheets.io/sheets/kotlin) - DevSheets (HTML)
+* [Kotlin Cheatsheet](https://devhints.io/kotlin) - Nadiaa (HTML)
+* [Kotlin Cheatsheet and quick reference](https://koenig-media.raywenderlich.com/uploads/2019/11/RW-Kotlin-Cheatsheet-1.1.pdf) - Ray Wenderlich (PDF)
 
 
 ### Language Translations
@@ -585,7 +587,6 @@
 ### Rust
 
 * [Rust Cheat Sheet](https://zerotomastery.io/cheatsheets/rust-cheat-sheet/) - ZeroToMastery (HTML)
-* [Rust cheatsheet](https://quickref.me/rust) - QuickRef.ME (HTML)
 * [Rust Language Cheat Sheet](https://cheats.rs) (HTML)
 
 

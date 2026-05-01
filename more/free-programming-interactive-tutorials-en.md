@@ -101,6 +101,7 @@
 * [C++ Tutorial](https://www.w3schools.com/cpp) - W3Schools
 * [C++ Tutorial](https://www.scaler.com/topics/cpp/) - Scaler Topics
 * [CppKoans](https://github.com/torbjoernk/CppKoans)
+* [Learn C++ - Free Interactive C++ Tutorial](https://www.learn-cpp.org) - learn-cpp.org
 
 
 ### Clojure
@@ -177,6 +178,7 @@
 * [Go Koans](https://github.com/cdarwin/go-koans)
 * [Go Tutorial](https://www.w3schools.com/go/) - W3Schools
 * [Learn Go](https://www.codecademy.com/learn/learn-go) - Google, Robert Griesemer, Rob Pike, and Ken Thompson (Codecademy) *(account required)*
+* [Learn Go Full Course](https://www.boot.dev/courses/learn-golang) - Boot.dev
 * [Start using Go](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/) - Microsoft
 * [TCP Servers in Go](https://app.codecrafters.io/concepts/go-tcp-server) - CodeCrafters
 * [The Go Tutorial](http://tour.golang.org)
@@ -323,7 +325,6 @@
 
 ### LaTeX
 
-* [LaTeX Tutorial](https://www.tutorialspoint.com/latex/index.htm) - TutorialsPoint
 * [Learn LaTeX in 30 minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 
 
@@ -448,11 +449,13 @@
 * [Rustlings](https://github.com/rust-lang/rustlings)
 * [TCP Servers in Rust](https://app.codecrafters.io/concepts/rust-tcp-server) - CodeCrafters
 * [Tour of Rust](https://tourofrust.com)
+* [W3Schools Rust Tutorial](https://www.w3schools.com/rust) - W3Schools
 
 
 ### Scala
 
 * [A Tour of Scala - an interactive scala tutorial](https://scalatutorials.com/tour/)
+* [LearnScala.org](https://www.learnscala.org) - Interactive Scala Tutorial
 * [Scala Exercises](https://www.scala-exercises.org)
 
 
